@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:812E47A7-6A1B-4849-AA27-A039F3D6C117</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-08-09T11:39:35-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:88FE1BB3-D7FD-4CB5-8EA4-CE21B4950FB6</id>
+  <title>Annotated Bibliographies</title>
+  <title xmlns="urn:iweb:">Annotated Bibliographies</title>
+  <in-navbar xmlns="urn:iweb:">88FE1BB3-D7FD-4CB5-8EA4-CE21B4950FB6</in-navbar>
+  <link rel="alternate" href="Annotated_Bibliographies.html"/>
+  <updated>2012-08-09T11:39:35.001-04:00</updated>
+  <content>Annotated Bibliographies</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D43345EA-1DA5-4C69-B643-5417C03C5D8E</id>
+  <title>Critically Appraising a Source</title>
+  <title xmlns="urn:iweb:">Critically Appraising a Source</title>
+  <in-navbar xmlns="urn:iweb:">D43345EA-1DA5-4C69-B643-5417C03C5D8E</in-navbar>
+  <link rel="alternate" href="Critically_Appraising_a_Source.html"/>
+  <updated>2012-08-09T11:39:35.002-04:00</updated>
+  <content>Critically Appraising a Source</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:54EADEF6-7D6E-44B5-8ED7-9ACADD7FBB5E</id>
+  <title>Analyzing the Content</title>
+  <title xmlns="urn:iweb:">Analyzing the Content</title>
+  <in-navbar xmlns="urn:iweb:">54EADEF6-7D6E-44B5-8ED7-9ACADD7FBB5E</in-navbar>
+  <link rel="alternate" href="Analyzing_the_Content.html"/>
+  <updated>2012-08-09T11:39:35.003-04:00</updated>
+  <content>Analyzing the Content</content>
+ </entry>
+</feed>
